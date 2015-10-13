@@ -1,5 +1,5 @@
 [Plugin]
-Loader=python
+Loader=python3
 Module=python_indentation
 IAge=3
 Name=Python Indentation
